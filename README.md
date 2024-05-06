@@ -1,5 +1,5 @@
 # Birdvision_sol
-Certainly! Below is a sample README.md file for your Flask application to upload on GitHub:
+
 
 ---
 
@@ -82,4 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize the README further based on your project's specific details and requirements.
